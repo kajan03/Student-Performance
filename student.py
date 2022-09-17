@@ -26,6 +26,6 @@ def performance_predict(marks):
     model.fit(x_train,y_train)
 
     x_test = np.array(marks)
-    x_test = x_test.reshape((1,-1))
+    x_test = x_test.reshape((-1,1))
 
     return model.predict(x_test)

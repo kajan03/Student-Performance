@@ -1,0 +1,962 @@
+Student Name,Grade,Subject,Teacher's Name,Section,Marks,Total,Performance
+Yazeed Aman,10,Mathematics,Rizlan,Calculus,8,32,0
+Fathima Shareefa Mohammed Azhar,10,Mathematics,Rizlan,Calculus,3,12,0
+Nehla Irshad,10,Mathematics,Rizlan,Calculus,5,20,0
+Irfrah Irsham,10,Mathematics,Rizlan,Calculus,12,48,0
+Asna Azmin,10,Mathematics,Rizlan,Calculus,14,56,1
+Leeza Logeswaran,10,Mathematics,Rizlan,Calculus,13,52,1
+Mohamed Afraaz,10,Mathematics,Rizlan,Calculus,17,68,1
+Rumana Abdul Raheem,10,Mathematics,Rizlan,Calculus,17,68,1
+Sajawal Sattar,10,Mathematics,Rizlan,Calculus,7,28,0
+Mohamed Shamil,10,Mathematics,Rizlan,Calculus,4,16,0
+Iqrah Khan,10,Mathematics,Rizlan,Calculus,20,80,1
+Nabeel Yoonus,10,Mathematics,Rizlan,Calculus,5,20,0
+Fathima Muhammadh,10,Mathematics,Rizlan,Calculus,18,72,1
+Rukaiya Tharik,10,Mathematics,Rizlan,Calculus,19,76,1
+Ahkam Ali,10,Mathematics,Rizlan,Calculus,3,12,0
+Afra Shuaib,10,Mathematics,Rizlan,Calculus,15,60,1
+Afra Fazly,10,Mathematics,Ashok,Calculus,12,48,0
+Shazna Fiyaz,10,Mathematics,Ashok,Calculus,12,48,0
+Jonathan J,10,Mathematics,Ashok,Calculus,6,24,0
+Sakeenth Jiffry,10,Mathematics,Ashok,Calculus,7,28,0
+Harun Rashid Eisa,10,Mathematics,Ashok,Calculus,6,24,0
+Amna Sheza,10,Mathematics,Ashok,Calculus,21,84,1
+M.Fahad,10,Mathematics,Ashok,Calculus,8,32,0
+Safa Ashfaq,10,Mathematics,Ashok,Calculus,19,76,1
+Ansaf Hizwan,10,Mathematics,Ashok,Calculus,7,28,0
+Nahma Nafeel,10,Mathematics,Ashok,Calculus,19,76,1
+Taareq Raashed,10,Mathematics,Ashok,Calculus,12,48,0
+Mohammed Jariullah,10,Mathematics,Ashok,Calculus,15,60,1
+Shameer Misbah,10,Mathematics,Ashok,Calculus,19,76,1
+Milflah Meeyan,10,Mathematics,Ashok,Calculus,15,60,1
+Mohamed Ashfaq Azmi,10,Mathematics,Ashok,Calculus,1,4,0
+Ashir Ahamed,10,Mathematics,Ashok,Calculus,6,24,0
+Farah Fazul,10,Mathematics,Ashok,Calculus,7,28,0
+Farhan Ali Mansoor,10,Mathematics,Ashok,Calculus,20,80,1
+Fara Burhanudeen,10,Mathematics,Ashok,Calculus,20,80,1
+Fathima Fazleena Rihan,10,Mathematics,Ashok,Calculus,1,4,0
+Nazma Fwazan,10,Mathematics,Ashok,Calculus,19,76,1
+Ishrak Saadie Sarah Mohin,10,Mathematics,Ashok,Calculus,8,32,0
+Shamla Farif,10,Mathematics,Ashok,Calculus,21,84,1
+Safiyyah Faizal,10,Mathematics,Ashok,Calculus,8,32,0
+Irosh Demiyan,10,Mathematics,Ashok,Calculus,8,32,0
+Munzir Marzook,10,Mathematics,Ashok,Calculus,4,16,0
+Zikra Zahir,10,Mathematics,Ashok,Calculus,4,16,0
+Ameena AnwarSadath,10,Mathematics,Ashok,Calculus,18,72,1
+Hibbathul Aleem,10,Mathematics,Ashok,Calculus,9,36,0
+Qanita Anis,10,Mathematics,Munira,Calculus,11,44,0
+Mishkath Mihlar,10,Mathematics,Munira,Calculus,1,4,0
+Adheeba Zuhry,10,Mathematics,Munira,Calculus,6,24,0
+Huda,10,Mathematics,Munira,Calculus,6,24,0
+Hikma Mojood,10,Mathematics,Munira,Calculus,4,16,0
+Fathima Ashma Zubair,10,Mathematics,Munira,Calculus,7,28,0
+Yazeed Aman,10,Mathematics,Munira,Calculus,11,44,0
+Mohamed yoonus Firdous,10,Mathematics,Munira,Calculus,10,40,0
+Yaasir Shahjahan,10,Mathematics,Munira,Calculus,8,32,0
+Fathima Shareefa Mohammed Azhar,10,Mathematics,Munira,Calculus,8,32,0
+Yazeed Aman,10,Mathematics,Rizlan,Statistics,11,44,0
+Fathima Shareefa Mohammed Azhar,10,Mathematics,Rizlan,Statistics,10,40,0
+Nehla Irshad,10,Mathematics,Rizlan,Statistics,8,32,0
+Irfrah Irsham,10,Mathematics,Rizlan,Statistics,8,32,0
+Asna Azmin,10,Mathematics,Rizlan,Statistics,6,24,0
+Leeza Logeswaran,10,Mathematics,Rizlan,Statistics,19,76,1
+Mohamed Afraaz,10,Mathematics,Rizlan,Statistics,16,64,1
+Rumana Abdul Raheem,10,Mathematics,Rizlan,Statistics,25,100,1
+Sajawal Sattar,10,Mathematics,Rizlan,Statistics,18,72,1
+Mohamed Shamil,10,Mathematics,Rizlan,Statistics,17,68,1
+Iqrah Khan,10,Mathematics,Rizlan,Statistics,14,56,1
+Nabeel Yoonus,10,Mathematics,Rizlan,Statistics,10,40,0
+Fathima Muhammadh,10,Mathematics,Rizlan,Statistics,24,96,1
+Rukaiya Tharik,10,Mathematics,Rizlan,Statistics,10,40,0
+Ahkam Ali,10,Mathematics,Rizlan,Statistics,1,4,0
+Afra Shuaib,10,Mathematics,Rizlan,Statistics,7,28,0
+Afra Fazly,10,Mathematics,Ashok,Statistics,3,12,0
+Shazna Fiyaz,10,Mathematics,Ashok,Statistics,25,100,1
+Jonathan J,10,Mathematics,Ashok,Statistics,19,76,1
+Sakeenth Jiffry,10,Mathematics,Ashok,Statistics,4,16,0
+Harun Rashid Eisa,10,Mathematics,Ashok,Statistics,9,36,0
+Amna Sheza,10,Mathematics,Ashok,Statistics,21,84,1
+M.Fahad,10,Mathematics,Ashok,Statistics,11,44,0
+Safa Ashfaq,10,Mathematics,Ashok,Statistics,14,56,1
+Ansaf Hizwan,10,Mathematics,Ashok,Statistics,6,24,0
+Nahma Nafeel,10,Mathematics,Ashok,Statistics,19,76,1
+Taareq Raashed,10,Mathematics,Ashok,Statistics,5,20,0
+Mohammed Jariullah,10,Mathematics,Ashok,Statistics,14,56,1
+Shameer Misbah,10,Mathematics,Ashok,Statistics,18,72,1
+Milflah Meeyan,10,Mathematics,Ashok,Statistics,8,32,0
+Mohamed Ashfaq Azmi,10,Mathematics,Ashok,Statistics,19,76,1
+Ashir Ahamed,10,Mathematics,Ashok,Statistics,11,44,0
+Farah Fazul,10,Mathematics,Ashok,Statistics,9,36,0
+Farhan Ali Mansoor,10,Mathematics,Ashok,Statistics,16,64,1
+Fara Burhanudeen,10,Mathematics,Ashok,Statistics,14,56,1
+Fathima Fazleena Rihan,10,Mathematics,Ashok,Statistics,3,12,0
+Nazma Fwazan,10,Mathematics,Ashok,Statistics,16,64,1
+Ishrak Saadie Sarah Mohin,10,Mathematics,Ashok,Statistics,9,36,0
+Shamla Farif,10,Mathematics,Ashok,Statistics,25,100,1
+Safiyyah Faizal,10,Mathematics,Ashok,Statistics,3,12,0
+Irosh Demiyan,10,Mathematics,Ashok,Statistics,5,20,0
+Munzir Marzook,10,Mathematics,Ashok,Statistics,9,36,0
+Zikra Zahir,10,Mathematics,Ashok,Statistics,6,24,0
+Ameena AnwarSadath,10,Mathematics,Ashok,Statistics,5,20,0
+Hibbathul Aleem,10,Mathematics,Ashok,Statistics,6,24,0
+Qanita Anis,10,Mathematics,Munira,Statistics,14,56,1
+Mishkath Mihlar,10,Mathematics,Munira,Statistics,5,20,0
+Adheeba Zuhry,10,Mathematics,Munira,Statistics,17,68,1
+Huda,10,Mathematics,Munira,Statistics,8,32,0
+Hikma Mojood,10,Mathematics,Munira,Statistics,5,20,0
+Fathima Ashma Zubair,10,Mathematics,Munira,Statistics,12,48,0
+Yazeed Aman,10,Mathematics,Munira,Statistics,9,36,0
+Mohamed yoonus Firdous,10,Mathematics,Munira,Statistics,10,40,0
+Yaasir Shahjahan,10,Mathematics,Munira,Statistics,6,24,0
+Fathima Shareefa Mohammed Azhar,10,Mathematics,Munira,Statistics,4,16,0
+Yazeed Aman,10,Mathematics,Rizlan,Matrix,10,40,0
+Fathima Shareefa Mohammed Azhar,10,Mathematics,Rizlan,Matrix,6,24,0
+Nehla Irshad,10,Mathematics,Rizlan,Matrix,4,16,0
+Irfrah Irsham,10,Mathematics,Rizlan,Matrix,16,64,1
+Asna Azmin,10,Mathematics,Rizlan,Matrix,13,52,1
+Leeza Logeswaran,10,Mathematics,Rizlan,Matrix,11,44,0
+Mohamed Afraaz,10,Mathematics,Rizlan,Matrix,6,24,0
+Rumana Abdul Raheem,10,Mathematics,Rizlan,Matrix,22,88,1
+Sajawal Sattar,10,Mathematics,Rizlan,Matrix,19,76,1
+Mohamed Shamil,10,Mathematics,Rizlan,Matrix,10,40,0
+Iqrah Khan,10,Mathematics,Rizlan,Matrix,13,52,1
+Nabeel Yoonus,10,Mathematics,Rizlan,Matrix,13,52,1
+Fathima Muhammadh,10,Mathematics,Rizlan,Matrix,3,12,0
+Rukaiya Tharik,10,Mathematics,Rizlan,Matrix,4,16,0
+Ahkam Ali,10,Mathematics,Rizlan,Matrix,2,8,0
+Afra Shuaib,10,Mathematics,Rizlan,Matrix,16,64,1
+Afra Fazly,10,Mathematics,Ashok,Matrix,7,28,0
+Shazna Fiyaz,10,Mathematics,Ashok,Matrix,23,92,1
+Jonathan J,10,Mathematics,Ashok,Matrix,9,36,0
+Sakeenth Jiffry,10,Mathematics,Ashok,Matrix,1,4,0
+Harun Rashid Eisa,10,Mathematics,Ashok,Matrix,17,68,1
+Amna Sheza,10,Mathematics,Ashok,Matrix,16,64,1
+M.Fahad,10,Mathematics,Ashok,Matrix,9,36,0
+Safa Ashfaq,10,Mathematics,Ashok,Matrix,2,8,0
+Ansaf Hizwan,10,Mathematics,Ashok,Matrix,7,28,0
+Nahma Nafeel,10,Mathematics,Ashok,Matrix,1,4,0
+Taareq Raashed,10,Mathematics,Ashok,Matrix,16,64,1
+Mohammed Jariullah,10,Mathematics,Ashok,Matrix,8,32,0
+Shameer Misbah,10,Mathematics,Ashok,Matrix,15,60,1
+Milflah Meeyan,10,Mathematics,Ashok,Matrix,16,64,1
+Mohamed Ashfaq Azmi,10,Mathematics,Ashok,Matrix,15,60,1
+Ashir Ahamed,10,Mathematics,Ashok,Matrix,13,52,1
+Farah Fazul,10,Mathematics,Ashok,Matrix,19,76,1
+Farhan Ali Mansoor,10,Mathematics,Ashok,Matrix,18,72,1
+Fara Burhanudeen,10,Mathematics,Ashok,Matrix,14,56,1
+Fathima Fazleena Rihan,10,Mathematics,Ashok,Matrix,8,32,0
+Nazma Fwazan,10,Mathematics,Ashok,Matrix,23,92,1
+Ishrak Saadie Sarah Mohin,10,Mathematics,Ashok,Matrix,13,52,1
+Shamla Farif,10,Mathematics,Ashok,Matrix,23,92,1
+Safiyyah Faizal,10,Mathematics,Ashok,Matrix,11,44,0
+Irosh Demiyan,10,Mathematics,Ashok,Matrix,7,28,0
+Munzir Marzook,10,Mathematics,Ashok,Matrix,7,28,0
+Zikra Zahir,10,Mathematics,Ashok,Matrix,9,36,0
+Ameena AnwarSadath,10,Mathematics,Ashok,Matrix,11,44,0
+Hibbathul Aleem,10,Mathematics,Ashok,Matrix,4,16,0
+Qanita Anis,10,Mathematics,Munira,Matrix,12,48,0
+Mishkath Mihlar,10,Mathematics,Munira,Matrix,1,4,0
+Adheeba Zuhry,10,Mathematics,Munira,Matrix,12,48,0
+Huda,10,Mathematics,Munira,Matrix,9,36,0
+Hikma Mojood,10,Mathematics,Munira,Matrix,8,32,0
+Fathima Ashma Zubair,10,Mathematics,Munira,Matrix,10,40,0
+Yazeed Aman,10,Mathematics,Munira,Matrix,10,40,0
+Mohamed yoonus Firdous,10,Mathematics,Munira,Matrix,9,36,0
+Yaasir Shahjahan,10,Mathematics,Munira,Matrix,11,44,0
+Fathima Shareefa Mohammed Azhar,10,Mathematics,Munira,Matrix,6,24,0
+Yazeed Aman,10,Mathematics,Rizlan,Regrssion,12,48,0
+Fathima Shareefa Mohammed Azhar,10,Mathematics,Rizlan,Regrssion,12,48,0
+Nehla Irshad,10,Mathematics,Rizlan,Regrssion,6,24,0
+Irfrah Irsham,10,Mathematics,Rizlan,Regrssion,8,32,0
+Asna Azmin,10,Mathematics,Rizlan,Regrssion,12,48,0
+Leeza Logeswaran,10,Mathematics,Rizlan,Regrssion,13,52,1
+Mohamed Afraaz,10,Mathematics,Rizlan,Regrssion,14,56,1
+Rumana Abdul Raheem,10,Mathematics,Rizlan,Regrssion,9,36,0
+Sajawal Sattar,10,Mathematics,Rizlan,Regrssion,16,64,1
+Mohamed Shamil,10,Mathematics,Rizlan,Regrssion,10,40,0
+Iqrah Khan,10,Mathematics,Rizlan,Regrssion,4,16,0
+Nabeel Yoonus,10,Mathematics,Rizlan,Regrssion,6,24,0
+Fathima Muhammadh,10,Mathematics,Rizlan,Regrssion,17,68,1
+Rukaiya Tharik,10,Mathematics,Rizlan,Regrssion,14,56,1
+Ahkam Ali,10,Mathematics,Rizlan,Regrssion,2,8,0
+Afra Shuaib,10,Mathematics,Rizlan,Regrssion,17,68,1
+Afra Fazly,10,Mathematics,Ashok,Regrssion,1,4,0
+Shazna Fiyaz,10,Mathematics,Ashok,Regrssion,9,36,0
+Jonathan J,10,Mathematics,Ashok,Regrssion,12,48,0
+Sakeenth Jiffry,10,Mathematics,Ashok,Regrssion,15,60,1
+Harun Rashid Eisa,10,Mathematics,Ashok,Regrssion,10,40,0
+Amna Sheza,10,Mathematics,Ashok,Regrssion,13,52,1
+M.Fahad,10,Mathematics,Ashok,Regrssion,15,60,1
+Safa Ashfaq,10,Mathematics,Ashok,Regrssion,16,64,1
+Ansaf Hizwan,10,Mathematics,Ashok,Regrssion,15,60,1
+Nahma Nafeel,10,Mathematics,Ashok,Regrssion,16,64,1
+Taareq Raashed,10,Mathematics,Ashok,Regrssion,14,56,1
+Mohammed Jariullah,10,Mathematics,Ashok,Regrssion,7,28,0
+Shameer Misbah,10,Mathematics,Ashok,Regrssion,3,12,0
+Milflah Meeyan,10,Mathematics,Ashok,Regrssion,16,64,1
+Mohamed Ashfaq Azmi,10,Mathematics,Ashok,Regrssion,16,64,1
+Ashir Ahamed,10,Mathematics,Ashok,Regrssion,7,28,0
+Farah Fazul,10,Mathematics,Ashok,Regrssion,8,32,0
+Farhan Ali Mansoor,10,Mathematics,Ashok,Regrssion,9,36,0
+Fara Burhanudeen,10,Mathematics,Ashok,Regrssion,18,72,1
+Fathima Fazleena Rihan,10,Mathematics,Ashok,Regrssion,2,8,0
+Nazma Fwazan,10,Mathematics,Ashok,Regrssion,10,40,0
+Ishrak Saadie Sarah Mohin,10,Mathematics,Ashok,Regrssion,12,48,0
+Shamla Farif,10,Mathematics,Ashok,Regrssion,12,48,0
+Safiyyah Faizal,10,Mathematics,Ashok,Regrssion,8,32,0
+Irosh Demiyan,10,Mathematics,Ashok,Regrssion,11,44,0
+Munzir Marzook,10,Mathematics,Ashok,Regrssion,4,16,0
+Zikra Zahir,10,Mathematics,Ashok,Regrssion,6,24,0
+Ameena AnwarSadath,10,Mathematics,Ashok,Regrssion,11,44,0
+Hibbathul Aleem,10,Mathematics,Ashok,Regrssion,7,28,0
+Qanita Anis,10,Mathematics,Munira,Regrssion,15,60,1
+Mishkath Mihlar,10,Mathematics,Munira,Regrssion,3,12,0
+Adheeba Zuhry,10,Mathematics,Munira,Regrssion,16,64,1
+Huda,10,Mathematics,Munira,Regrssion,10,40,0
+Hikma Mojood,10,Mathematics,Munira,Regrssion,6,24,0
+Fathima Ashma Zubair,10,Mathematics,Munira,Regrssion,14,56,1
+Yazeed Aman,10,Mathematics,Munira,Regrssion,13,52,1
+Mohamed yoonus Firdous,10,Mathematics,Munira,Regrssion,7,28,0
+Yaasir Shahjahan,10,Mathematics,Munira,Regrssion,10,40,0
+Fathima Shareefa Mohammed Azhar,10,Mathematics,Munira,Regrssion,5,20,0
+Amra Ifham,10,Mathematics,Ranil,Calculus,6,24,0
+Ismai Ifthikar,10,Mathematics,Ranil,Calculus,9,36,0
+Hasfa Adham,10,Mathematics,Ranil,Calculus,11,44,0
+Hana Maryam Firdous,10,Mathematics,Ranil,Calculus,9,36,0
+Jawad Ashkar,10,Mathematics,Ranil,Calculus,13,52,1
+Ahmad Ayaad,10,Mathematics,Ranil,Calculus,14,56,1
+Saudha Ishthikar,10,Mathematics,Ranil,Calculus,13,52,1
+Yazeed Aman,10,Mathematics,Ranil,Calculus,17,68,1
+Asma Irshad,10,Mathematics,Ranil,Calculus,10,40,0
+Revon Yogendran,10,Mathematics,Ranil,Calculus,9,36,0
+Raadhiya Risly,10,Mathematics,Ranil,Calculus,6,24,0
+Luqman Akram,10,Mathematics,Ranil,Calculus,9,36,0
+Hafeeza Azwer,10,Mathematics,Ranil,Calculus,12,48,0
+Umer Fahim,10,Mathematics,Ranil,Calculus,10,40,0
+Ganishkaanth Elangovan,10,Mathematics,Joy,Calculus,3,12,0
+Irsham Fathima,10,Mathematics,Joy,Calculus,5,20,0
+Osandi Ranaweera,10,Mathematics,Joy,Calculus,10,40,0
+Fathima Shareefa,10,Mathematics,Joy,Calculus,19,76,1
+Abdul Haadi,10,Mathematics,Joy,Calculus,14,56,1
+Muadh Fazal,10,Mathematics,Joy,Calculus,10,40,0
+Nisula Alwis,10,Mathematics,Joy,Calculus,10,40,0
+Aysha Roshan,10,Mathematics,Joy,Calculus,11,44,0
+Umar anas,10,Mathematics,Joy,Calculus,8,32,0
+Mohamed Farhan,10,Mathematics,Joy,Calculus,5,20,0
+Safiya Izzath,10,Mathematics,Joy,Calculus,2,8,0
+Azka Jahankeer,10,Mathematics,Joy,Calculus,12,48,0
+Raadhiya Isham,10,Mathematics,Joy,Calculus,11,44,0
+Rishda Shahan,10,Mathematics,Joy,Calculus,1,4,0
+Zikra Hilmy,10,Mathematics,Joy,Calculus,6,24,0
+Salha Ihsan,10,Mathematics,Joy,Calculus,9,36,0
+Maryam Rizvi,10,Mathematics,Joy,Calculus,17,68,1
+Asma Rizwan,10,Mathematics,Joy,Calculus,0,0,0
+Oneli Ranaweere,10,Mathematics,Joy,Calculus,18,72,1
+Mariyam Ilma,10,Mathematics,Joy,Calculus,21,84,1
+Fathuma Ameen,10,Mathematics,Joy,Calculus,8,32,0
+Looth Riyas,10,Mathematics,Joy,Calculus,10,40,0
+Farsha Fayaz,10,Mathematics,Joy,Calculus,6,24,0
+Ammaar Rizwan,10,Mathematics,Joy,Calculus,4,16,0
+Hajara Fayaz,10,Mathematics,Nimesh,Calculus,3,12,0
+Najla Fawzer,10,Mathematics,Nimesh,Calculus,3,12,0
+Aqeela Unais,10,Mathematics,Nimesh,Calculus,5,20,0
+Sabeeha Sujah,10,Mathematics,Nimesh,Calculus,6,24,0
+Shanojan Mahadevan,10,Mathematics,Nimesh,Calculus,11,44,0
+Raihana Mowlana,10,Mathematics,Nimesh,Calculus,13,52,1
+Fathima Rizan,10,Mathematics,Nimesh,Calculus,17,68,1
+Hamna Naleem,10,Mathematics,Nimesh,Calculus,10,40,0
+Athiyah Ansari,10,Mathematics,Nimesh,Calculus,6,24,0
+Maryam Fazmi,10,Mathematics,Nimesh,Calculus,4,16,0
+H.R Rithraj,10,Mathematics,Nimesh,Calculus,6,24,0
+Zamra Rafeek,10,Mathematics,Nimesh,Calculus,5,20,0
+Othara Dinmanthie,10,Mathematics,Nimesh,Calculus,7,28,0
+Amna Hisham,10,Mathematics,Nimesh,Calculus,5,20,0
+Hiba Rizwan,10,Mathematics,Nimesh,Calculus,11,44,0
+Hana Fazlan,10,Mathematics,Nimesh,Calculus,13,52,1
+Fathima Sumaiya,10,Mathematics,Nimesh,Calculus,10,40,0
+Safiya Hani,10,Mathematics,Nimesh,Calculus,2,8,0
+Adhnaan Sherief,10,Mathematics,Nimesh,Calculus,13,52,1
+Bushra Zainab,10,Mathematics,Nimesh,Calculus,23,92,1
+Umara Azard,10,Mathematics,Nimesh,Calculus,21,84,1
+Rashadha Latheef,10,Mathematics,Nimesh,Calculus,5,20,0
+Mahdiya Hafeel,10,Mathematics,Nimesh,Calculus,8,32,0
+Nabil Nafeel,10,Mathematics,Nimesh,Calculus,11,44,0
+Mohammed Azhar,10,Mathematics,Nimesh,Calculus,15,60,1
+Maryam Ifaz,10,Mathematics,Nimesh,Calculus,2,8,0
+Ashtaq Naufal,10,Mathematics,Nimesh,Calculus,3,12,0
+Amnaah Aakif,10,Mathematics,Nimesh,Calculus,7,28,0
+Amra Mukthar,10,Mathematics,Nimesh,Calculus,7,28,0
+Ajmal Hameem,10,Mathematics,Nimesh,Calculus,23,92,1
+Zainab Siraj,10,Mathematics,Nimesh,Calculus,11,44,0
+Nikith Ferington,10,Mathematics,Nimesh,Calculus,11,44,0
+Nihar Yoonus,10,Mathematics,Nimesh,Calculus,13,52,1
+Maryam Mohamed,10,Mathematics,Nimesh,Calculus,4,16,0
+Rizkiya Zarook,10,Mathematics,Nimesh,Calculus,8,32,0
+Amna Arafath,10,Mathematics,Nimesh,Calculus,12,48,0
+Nadhir Naseer,10,Mathematics,Nimesh,Calculus,16,64,1
+Ishra Manual,10,Mathematics,Nimesh,Calculus,8,32,0
+Fathima Safa Naushad,10,Mathematics,Nimesh,Calculus,11,44,0
+Shahaama Fahim,10,Mathematics,Nimesh,Calculus,22,88,1
+Ilma Razzak,10,Mathematics,Nimesh,Calculus,11,44,0
+Sarah Sharby,10,Mathematics,Nimesh,Calculus,8,32,0
+Safiya Azhar,10,Mathematics,Nimesh,Calculus,11,44,0
+Salma Hadhil,10,Mathematics,Nimesh,Calculus,15,60,1
+Salha Sabry,10,Mathematics,Nimesh,Calculus,4,16,0
+Ramsha Razmi,10,Mathematics,Nimesh,Calculus,8,32,0
+Ayisha Manal,10,Mathematics,Nimesh,Calculus,13,52,1
+Amra Ifham,10,Mathematics,Ranil,Statistics,9,36,0
+Ismai Ifthikar,10,Mathematics,Ranil,Statistics,15,60,1
+Hasfa Adham,10,Mathematics,Ranil,Statistics,6,24,0
+Hana Maryam Firdous,10,Mathematics,Ranil,Statistics,16,64,1
+Jawad Ashkar,10,Mathematics,Ranil,Statistics,6,24,0
+Ahmad Ayaad,10,Mathematics,Ranil,Statistics,6,24,0
+Saudha Ishthikar,10,Mathematics,Ranil,Statistics,8,32,0
+Yazeed Aman,10,Mathematics,Ranil,Statistics,13,52,1
+Asma Irshad,10,Mathematics,Ranil,Statistics,4,16,0
+Revon Yogendran,10,Mathematics,Ranil,Statistics,4,16,0
+Raadhiya Risly,10,Mathematics,Ranil,Statistics,5,20,0
+Luqman Akram,10,Mathematics,Ranil,Statistics,7,28,0
+Hafeeza Azwer,10,Mathematics,Ranil,Statistics,16,64,1
+Umer Fahim,10,Mathematics,Ranil,Statistics,11,44,0
+Ganishkaanth Elangovan,10,Mathematics,Joy,Statistics,4,16,0
+Irsham Fathima,10,Mathematics,Joy,Statistics,6,24,0
+Osandi Ranaweera,10,Mathematics,Joy,Statistics,4,16,0
+Fathima Shareefa,10,Mathematics,Joy,Statistics,4,16,0
+Abdul Haadi,10,Mathematics,Joy,Statistics,6,24,0
+Muadh Fazal,10,Mathematics,Joy,Statistics,7,28,0
+Nisula Alwis,10,Mathematics,Joy,Statistics,3,12,0
+Aysha Roshan,10,Mathematics,Joy,Statistics,5,20,0
+Umar anas,10,Mathematics,Joy,Statistics,8,32,0
+Mohamed Farhan,10,Mathematics,Joy,Statistics,2,8,0
+Safiya Izzath,10,Mathematics,Joy,Statistics,7,28,0
+Azka Jahankeer,10,Mathematics,Joy,Statistics,3,12,0
+Raadhiya Isham,10,Mathematics,Joy,Statistics,4,16,0
+Rishda Shahan,10,Mathematics,Joy,Statistics,17,68,1
+Zikra Hilmy,10,Mathematics,Joy,Statistics,10,40,0
+Salha Ihsan,10,Mathematics,Joy,Statistics,6,24,0
+Maryam Rizvi,10,Mathematics,Joy,Statistics,8,32,0
+Asma Rizwan,10,Mathematics,Joy,Statistics,4,16,0
+Oneli Ranaweere,10,Mathematics,Joy,Statistics,3,12,0
+Mariyam Ilma,10,Mathematics,Joy,Statistics,4,16,0
+Fathuma Ameen,10,Mathematics,Joy,Statistics,11,44,0
+Looth Riyas,10,Mathematics,Joy,Statistics,11,44,0
+Farsha Fayaz,10,Mathematics,Joy,Statistics,5,20,0
+Ammaar Rizwan,10,Mathematics,Joy,Statistics,19,76,1
+Hajara Fayaz,10,Mathematics,Nimesh,Statistics,5,20,0
+Najla Fawzer,10,Mathematics,Nimesh,Statistics,7,28,0
+Aqeela Unais,10,Mathematics,Nimesh,Statistics,19,76,1
+Sabeeha Sujah,10,Mathematics,Nimesh,Statistics,10,40,0
+Shanojan Mahadevan,10,Mathematics,Nimesh,Statistics,3,12,0
+Raihana Mowlana,10,Mathematics,Nimesh,Statistics,5,20,0
+Fathima Rizan,10,Mathematics,Nimesh,Statistics,12,48,0
+Hamna Naleem,10,Mathematics,Nimesh,Statistics,17,68,1
+Athiyah Ansari,10,Mathematics,Nimesh,Statistics,8,32,0
+Maryam Fazmi,10,Mathematics,Nimesh,Statistics,6,24,0
+H.R Rithraj,10,Mathematics,Nimesh,Statistics,9,36,0
+Zamra Rafeek,10,Mathematics,Nimesh,Statistics,10,40,0
+Othara Dinmanthie,10,Mathematics,Nimesh,Statistics,11,44,0
+Amna Hisham,10,Mathematics,Nimesh,Statistics,6,24,0
+Hiba Rizwan,10,Mathematics,Nimesh,Statistics,5,20,0
+Hana Fazlan,10,Mathematics,Nimesh,Statistics,3,12,0
+Fathima Sumaiya,10,Mathematics,Nimesh,Statistics,14,56,1
+Safiya Hani,10,Mathematics,Nimesh,Statistics,10,40,0
+Adhnaan Sherief,10,Mathematics,Nimesh,Statistics,6,24,0
+Bushra Zainab,10,Mathematics,Nimesh,Statistics,8,32,0
+Umara Azard,10,Mathematics,Nimesh,Statistics,8,32,0
+Rashadha Latheef,10,Mathematics,Nimesh,Statistics,18,72,1
+Mahdiya Hafeel,10,Mathematics,Nimesh,Statistics,3,12,0
+Nabil Nafeel,10,Mathematics,Nimesh,Statistics,7,28,0
+Mohammed Azhar,10,Mathematics,Nimesh,Statistics,7,28,0
+Maryam Ifaz,10,Mathematics,Nimesh,Statistics,5,20,0
+Ashtaq Naufal,10,Mathematics,Nimesh,Statistics,15,60,1
+Amnaah Aakif,10,Mathematics,Nimesh,Statistics,6,24,0
+Amra Mukthar,10,Mathematics,Nimesh,Statistics,6,24,0
+Ajmal Hameem,10,Mathematics,Nimesh,Statistics,5,20,0
+Zainab Siraj,10,Mathematics,Nimesh,Statistics,7,28,0
+Nikith Ferington,10,Mathematics,Nimesh,Statistics,3,12,0
+Nihar Yoonus,10,Mathematics,Nimesh,Statistics,3,12,0
+Maryam Mohamed,10,Mathematics,Nimesh,Statistics,8,32,0
+Rizkiya Zarook,10,Mathematics,Nimesh,Statistics,12,48,0
+Amna Arafath,10,Mathematics,Nimesh,Statistics,12,48,0
+Nadhir Naseer,10,Mathematics,Nimesh,Statistics,11,44,0
+Ishra Manual,10,Mathematics,Nimesh,Statistics,6,24,0
+Fathima Safa Naushad,10,Mathematics,Nimesh,Statistics,12,48,0
+Shahaama Fahim,10,Mathematics,Nimesh,Statistics,20,80,1
+Ilma Razzak,10,Mathematics,Nimesh,Statistics,8,32,0
+Sarah Sharby,10,Mathematics,Nimesh,Statistics,6,24,0
+Safiya Azhar,10,Mathematics,Nimesh,Statistics,14,56,1
+Salma Hadhil,10,Mathematics,Nimesh,Statistics,13,52,1
+Salha Sabry,10,Mathematics,Nimesh,Statistics,5,20,0
+Ramsha Razmi,10,Mathematics,Nimesh,Statistics,7,28,0
+Ayisha Manal,10,Mathematics,Nimesh,Statistics,11,44,0
+Amra Ifham,10,Mathematics,Ranil,Statistics,3,12,0
+Ismai Ifthikar,10,Mathematics,Ranil,Statistics,4,16,0
+Hasfa Adham,10,Mathematics,Ranil,Statistics,14,56,1
+Hana Maryam Firdous,10,Mathematics,Ranil,Statistics,10,40,0
+Jawad Ashkar,10,Mathematics,Ranil,Statistics,14,56,1
+Ahmad Ayaad,10,Mathematics,Ranil,Statistics,11,44,0
+Saudha Ishthikar,10,Mathematics,Ranil,Statistics,7,28,0
+Yazeed Aman,10,Mathematics,Ranil,Statistics,11,44,0
+Asma Irshad,10,Mathematics,Ranil,Statistics,3,12,0
+Revon Yogendran,10,Mathematics,Ranil,Statistics,6,24,0
+Raadhiya Risly,10,Mathematics,Ranil,Statistics,3,12,0
+Luqman Akram,10,Mathematics,Ranil,Statistics,10,40,0
+Hafeeza Azwer,10,Mathematics,Ranil,Statistics,16,64,1
+Umer Fahim,10,Mathematics,Ranil,Statistics,6,24,0
+Ganishkaanth Elangovan,10,Mathematics,Joy,Statistics,3,12,0
+Irsham Fathima,10,Mathematics,Joy,Statistics,5,20,0
+Osandi Ranaweera,10,Mathematics,Joy,Statistics,15,60,1
+Fathima Shareefa,10,Mathematics,Joy,Statistics,6,24,0
+Abdul Haadi,10,Mathematics,Joy,Statistics,2,8,0
+Muadh Fazal,10,Mathematics,Joy,Statistics,1,4,0
+Nisula Alwis,10,Mathematics,Joy,Statistics,10,40,0
+Aysha Roshan,10,Mathematics,Joy,Statistics,4,16,0
+Umar anas,10,Mathematics,Joy,Statistics,17,68,1
+Mohamed Farhan,10,Mathematics,Joy,Statistics,16,64,1
+Safiya Izzath,10,Mathematics,Joy,Statistics,9,36,0
+Azka Jahankeer,10,Mathematics,Joy,Statistics,3,12,0
+Raadhiya Isham,10,Mathematics,Joy,Statistics,10,40,0
+Rishda Shahan,10,Mathematics,Joy,Statistics,1,4,0
+Zikra Hilmy,10,Mathematics,Joy,Statistics,6,24,0
+Salha Ihsan,10,Mathematics,Joy,Statistics,3,12,0
+Maryam Rizvi,10,Mathematics,Joy,Statistics,8,32,0
+Asma Rizwan,10,Mathematics,Joy,Statistics,12,48,0
+Oneli Ranaweere,10,Mathematics,Joy,Statistics,3,12,0
+Mariyam Ilma,10,Mathematics,Joy,Statistics,6,24,0
+Fathuma Ameen,10,Mathematics,Joy,Statistics,3,12,0
+Looth Riyas,10,Mathematics,Joy,Statistics,13,52,1
+Farsha Fayaz,10,Mathematics,Joy,Statistics,18,72,1
+Ammaar Rizwan,10,Mathematics,Joy,Statistics,13,52,1
+Hajara Fayaz,10,Mathematics,Nimesh,Statistics,8,32,0
+Najla Fawzer,10,Mathematics,Nimesh,Statistics,4,16,0
+Aqeela Unais,10,Mathematics,Nimesh,Statistics,5,20,0
+Sabeeha Sujah,10,Mathematics,Nimesh,Statistics,1,4,0
+Shanojan Mahadevan,10,Mathematics,Nimesh,Statistics,10,40,0
+Raihana Mowlana,10,Mathematics,Nimesh,Statistics,4,16,0
+Fathima Rizan,10,Mathematics,Nimesh,Statistics,8,32,0
+Hamna Naleem,10,Mathematics,Nimesh,Statistics,18,72,1
+Athiyah Ansari,10,Mathematics,Nimesh,Statistics,9,36,0
+Maryam Fazmi,10,Mathematics,Nimesh,Statistics,1,4,0
+H.R Rithraj,10,Mathematics,Nimesh,Statistics,3,12,0
+Zamra Rafeek,10,Mathematics,Nimesh,Statistics,7,28,0
+Othara Dinmanthie,10,Mathematics,Nimesh,Statistics,16,64,1
+Amna Hisham,10,Mathematics,Nimesh,Statistics,8,32,0
+Hiba Rizwan,10,Mathematics,Nimesh,Statistics,16,64,1
+Hana Fazlan,10,Mathematics,Nimesh,Statistics,15,60,1
+Fathima Sumaiya,10,Mathematics,Nimesh,Statistics,5,20,0
+Safiya Hani,10,Mathematics,Nimesh,Statistics,1,4,0
+Adhnaan Sherief,10,Mathematics,Nimesh,Statistics,5,20,0
+Bushra Zainab,10,Mathematics,Nimesh,Statistics,0,0,0
+Umara Azard,10,Mathematics,Nimesh,Statistics,6,24,0
+Rashadha Latheef,10,Mathematics,Nimesh,Statistics,4,16,0
+Mahdiya Hafeel,10,Mathematics,Nimesh,Statistics,0,0,0
+Nabil Nafeel,10,Mathematics,Nimesh,Statistics,4,16,0
+Mohammed Azhar,10,Mathematics,Nimesh,Statistics,3,12,0
+Maryam Ifaz,10,Mathematics,Nimesh,Statistics,10,40,0
+Ashtaq Naufal,10,Mathematics,Nimesh,Statistics,7,28,0
+Amnaah Aakif,10,Mathematics,Nimesh,Statistics,8,32,0
+Amra Mukthar,10,Mathematics,Nimesh,Statistics,9,36,0
+Ajmal Hameem,10,Mathematics,Nimesh,Statistics,21,84,1
+Zainab Siraj,10,Mathematics,Nimesh,Statistics,12,48,0
+Nikith Ferington,10,Mathematics,Nimesh,Statistics,14,56,1
+Nihar Yoonus,10,Mathematics,Nimesh,Statistics,6,24,0
+Maryam Mohamed,10,Mathematics,Nimesh,Statistics,9,36,0
+Rizkiya Zarook,10,Mathematics,Nimesh,Statistics,10,40,0
+Amna Arafath,10,Mathematics,Nimesh,Statistics,10,40,0
+Nadhir Naseer,10,Mathematics,Nimesh,Statistics,18,72,1
+Ishra Manual,10,Mathematics,Nimesh,Statistics,9,36,0
+Fathima Safa Naushad,10,Mathematics,Nimesh,Statistics,10,40,0
+Shahaama Fahim,10,Mathematics,Nimesh,Statistics,23,92,1
+Ilma Razzak,10,Mathematics,Nimesh,Statistics,9,36,0
+Sarah Sharby,10,Mathematics,Nimesh,Statistics,9,36,0
+Safiya Azhar,10,Mathematics,Nimesh,Statistics,12,48,0
+Salma Hadhil,10,Mathematics,Nimesh,Statistics,15,60,1
+Salha Sabry,10,Mathematics,Nimesh,Statistics,7,28,0
+Ramsha Razmi,10,Mathematics,Nimesh,Statistics,8,32,0
+Ayisha Manal,10,Mathematics,Nimesh,Statistics,12,48,0
+Amra Ifham,10,Mathematics,Ranil,Regression,11,44,0
+Ismai Ifthikar,10,Mathematics,Ranil,Regression,16,64,1
+Hasfa Adham,10,Mathematics,Ranil,Regression,13,52,1
+Hana Maryam Firdous,10,Mathematics,Ranil,Regression,15,60,1
+Jawad Ashkar,10,Mathematics,Ranil,Regression,12,48,0
+Ahmad Ayaad,10,Mathematics,Ranil,Regression,9,36,0
+Saudha Ishthikar,10,Mathematics,Ranil,Regression,14,56,1
+Yazeed Aman,10,Mathematics,Ranil,Regression,13,52,1
+Asma Irshad,10,Mathematics,Ranil,Regression,11,44,0
+Revon Yogendran,10,Mathematics,Ranil,Regression,7,28,0
+Raadhiya Risly,10,Mathematics,Ranil,Regression,12,48,0
+Luqman Akram,10,Mathematics,Ranil,Regression,19,76,1
+Hafeeza Azwer,10,Mathematics,Ranil,Regression,16,64,1
+Umer Fahim,10,Mathematics,Ranil,Regression,13,52,1
+Ganishkaanth Elangovan,10,Mathematics,Joy,Regression,3,12,0
+Irsham Fathima,10,Mathematics,Joy,Regression,17,68,1
+Osandi Ranaweera,10,Mathematics,Joy,Regression,9,36,0
+Fathima Shareefa,10,Mathematics,Joy,Regression,14,56,1
+Abdul Haadi,10,Mathematics,Joy,Regression,17,68,1
+Muadh Fazal,10,Mathematics,Joy,Regression,11,44,0
+Nisula Alwis,10,Mathematics,Joy,Regression,11,44,0
+Aysha Roshan,10,Mathematics,Joy,Regression,8,32,0
+Umar anas,10,Mathematics,Joy,Regression,13,52,1
+Mohamed Farhan,10,Mathematics,Joy,Regression,13,52,1
+Safiya Izzath,10,Mathematics,Joy,Regression,12,48,0
+Azka Jahankeer,10,Mathematics,Joy,Regression,15,60,1
+Raadhiya Isham,10,Mathematics,Joy,Regression,21,84,1
+Rishda Shahan,10,Mathematics,Joy,Regression,6,24,0
+Zikra Hilmy,10,Mathematics,Joy,Regression,7,28,0
+Salha Ihsan,10,Mathematics,Joy,Regression,9,36,0
+Maryam Rizvi,10,Mathematics,Joy,Regression,13,52,1
+Asma Rizwan,10,Mathematics,Joy,Regression,6,24,0
+Oneli Ranaweere,10,Mathematics,Joy,Regression,14,56,1
+Mariyam Ilma,10,Mathematics,Joy,Regression,13,52,1
+Fathuma Ameen,10,Mathematics,Joy,Regression,23,92,1
+Looth Riyas,10,Mathematics,Joy,Regression,14,56,1
+Farsha Fayaz,10,Mathematics,Joy,Regression,8,32,0
+Ammaar Rizwan,10,Mathematics,Joy,Regression,10,40,0
+Hajara Fayaz,10,Mathematics,Nimesh,Regression,14,56,1
+Najla Fawzer,10,Mathematics,Nimesh,Regression,8,32,0
+Aqeela Unais,10,Mathematics,Nimesh,Regression,6,24,0
+Sabeeha Sujah,10,Mathematics,Nimesh,Regression,12,48,0
+Shanojan Mahadevan,10,Mathematics,Nimesh,Regression,12,48,0
+Raihana Mowlana,10,Mathematics,Nimesh,Regression,15,60,1
+Fathima Rizan,10,Mathematics,Nimesh,Regression,11,44,0
+Hamna Naleem,10,Mathematics,Nimesh,Regression,13,52,1
+Athiyah Ansari,10,Mathematics,Nimesh,Regression,9,36,0
+Maryam Fazmi,10,Mathematics,Nimesh,Regression,10,40,0
+H.R Rithraj,10,Mathematics,Nimesh,Regression,5,20,0
+Zamra Rafeek,10,Mathematics,Nimesh,Regression,14,56,1
+Othara Dinmanthie,10,Mathematics,Nimesh,Regression,9,36,0
+Amna Hisham,10,Mathematics,Nimesh,Regression,15,60,1
+Hiba Rizwan,10,Mathematics,Nimesh,Regression,12,48,0
+Hana Fazlan,10,Mathematics,Nimesh,Regression,13,52,1
+Fathima Sumaiya,10,Mathematics,Nimesh,Regression,12,48,0
+Safiya Hani,10,Mathematics,Nimesh,Regression,9,36,0
+Adhnaan Sherief,10,Mathematics,Nimesh,Regression,7,28,0
+Bushra Zainab,10,Mathematics,Nimesh,Regression,12,48,0
+Umara Azard,10,Mathematics,Nimesh,Regression,10,40,0
+Rashadha Latheef,10,Mathematics,Nimesh,Regression,15,60,1
+Mahdiya Hafeel,10,Mathematics,Nimesh,Regression,5,20,0
+Nabil Nafeel,10,Mathematics,Nimesh,Regression,8,32,0
+Mohammed Azhar,10,Mathematics,Nimesh,Regression,9,36,0
+Maryam Ifaz,10,Mathematics,Nimesh,Regression,9,36,0
+Ashtaq Naufal,10,Mathematics,Nimesh,Regression,13,52,1
+Amnaah Aakif,10,Mathematics,Nimesh,Regression,7,28,0
+Amra Mukthar,10,Mathematics,Nimesh,Regression,9,36,0
+Ajmal Hameem,10,Mathematics,Nimesh,Regression,24,96,1
+Zainab Siraj,10,Mathematics,Nimesh,Regression,8,32,0
+Nikith Ferington,10,Mathematics,Nimesh,Regression,15,60,1
+Nihar Yoonus,10,Mathematics,Nimesh,Regression,8,32,0
+Maryam Mohamed,10,Mathematics,Nimesh,Regression,9,36,0
+Rizkiya Zarook,10,Mathematics,Nimesh,Regression,11,44,0
+Amna Arafath,10,Mathematics,Nimesh,Regression,9,36,0
+Nadhir Naseer,10,Mathematics,Nimesh,Regression,15,60,1
+Ishra Manual,10,Mathematics,Nimesh,Regression,10,40,0
+Fathima Safa Naushad,10,Mathematics,Nimesh,Regression,10,40,0
+Shahaama Fahim,10,Mathematics,Nimesh,Regression,22,88,1
+Ilma Razzak,10,Mathematics,Nimesh,Regression,7,28,0
+Sarah Sharby,10,Mathematics,Nimesh,Regression,10,40,0
+Safiya Azhar,10,Mathematics,Nimesh,Regression,15,60,1
+Salma Hadhil,10,Mathematics,Nimesh,Regression,18,72,1
+Salha Sabry,10,Mathematics,Nimesh,Regression,9,36,0
+Ramsha Razmi,10,Mathematics,Nimesh,Regression,9,36,0
+Ayisha Manal,10,Mathematics,Nimesh,Regression,12,48,0
+Amra Ifham,10,Mathematics,Ranil,Matrix,11,44,0
+Ismai Ifthikar,10,Mathematics,Ranil,Matrix,16,64,1
+Hasfa Adham,10,Mathematics,Ranil,Matrix,13,52,1
+Hana Maryam Firdous,10,Mathematics,Ranil,Matrix,15,60,1
+Jawad Ashkar,10,Mathematics,Ranil,Matrix,12,48,0
+Ahmad Ayaad,10,Mathematics,Ranil,Matrix,9,36,0
+Saudha Ishthikar,10,Mathematics,Ranil,Matrix,14,56,1
+Yazeed Aman,10,Mathematics,Ranil,Matrix,13,52,1
+Asma Irshad,10,Mathematics,Ranil,Matrix,11,44,0
+Revon Yogendran,10,Mathematics,Ranil,Matrix,7,28,0
+Raadhiya Risly,10,Mathematics,Ranil,Matrix,12,48,0
+Luqman Akram,10,Mathematics,Ranil,Matrix,19,76,1
+Hafeeza Azwer,10,Mathematics,Ranil,Matrix,16,64,1
+Umer Fahim,10,Mathematics,Ranil,Matrix,13,52,1
+Ganishkaanth Elangovan,10,Mathematics,Joy,Matrix,3,12,0
+Irsham Fathima,10,Mathematics,Joy,Matrix,17,68,1
+Osandi Ranaweera,10,Mathematics,Joy,Matrix,9,36,0
+Fathima Shareefa,10,Mathematics,Joy,Matrix,14,56,1
+Abdul Haadi,10,Mathematics,Joy,Matrix,17,68,1
+Muadh Fazal,10,Mathematics,Joy,Matrix,11,44,0
+Nisula Alwis,10,Mathematics,Joy,Matrix,11,44,0
+Aysha Roshan,10,Mathematics,Joy,Matrix,8,32,0
+Umar anas,10,Mathematics,Joy,Matrix,13,52,1
+Mohamed Farhan,10,Mathematics,Joy,Matrix,13,52,1
+Safiya Izzath,10,Mathematics,Joy,Matrix,12,48,0
+Azka Jahankeer,10,Mathematics,Joy,Matrix,15,60,1
+Raadhiya Isham,10,Mathematics,Joy,Matrix,21,84,1
+Rishda Shahan,10,Mathematics,Joy,Matrix,6,24,0
+Zikra Hilmy,10,Mathematics,Joy,Matrix,7,28,0
+Salha Ihsan,10,Mathematics,Joy,Matrix,9,36,0
+Maryam Rizvi,10,Mathematics,Joy,Matrix,13,52,1
+Asma Rizwan,10,Mathematics,Joy,Matrix,6,24,0
+Oneli Ranaweere,10,Mathematics,Joy,Matrix,14,56,1
+Mariyam Ilma,10,Mathematics,Joy,Matrix,13,52,1
+Fathuma Ameen,10,Mathematics,Joy,Matrix,23,92,1
+Looth Riyas,10,Mathematics,Joy,Matrix,14,56,1
+Farsha Fayaz,10,Mathematics,Joy,Matrix,8,32,0
+Ammaar Rizwan,10,Mathematics,Joy,Matrix,10,40,0
+Hajara Fayaz,10,Mathematics,Nimesh,Matrix,14,56,1
+Najla Fawzer,10,Mathematics,Nimesh,Matrix,8,32,0
+Aqeela Unais,10,Mathematics,Nimesh,Matrix,6,24,0
+Sabeeha Sujah,10,Mathematics,Nimesh,Matrix,12,48,0
+Shanojan Mahadevan,10,Mathematics,Nimesh,Matrix,12,48,0
+Raihana Mowlana,10,Mathematics,Nimesh,Matrix,15,60,1
+Fathima Rizan,10,Mathematics,Nimesh,Matrix,11,44,0
+Hamna Naleem,10,Mathematics,Nimesh,Matrix,13,52,1
+Athiyah Ansari,10,Mathematics,Nimesh,Matrix,9,36,0
+Maryam Fazmi,10,Mathematics,Nimesh,Matrix,10,40,0
+H.R Rithraj,10,Mathematics,Nimesh,Matrix,5,20,0
+Zamra Rafeek,10,Mathematics,Nimesh,Matrix,14,56,1
+Othara Dinmanthie,10,Mathematics,Nimesh,Matrix,9,36,0
+Amna Hisham,10,Mathematics,Nimesh,Matrix,15,60,1
+Hiba Rizwan,10,Mathematics,Nimesh,Matrix,12,48,0
+Hana Fazlan,10,Mathematics,Nimesh,Matrix,13,52,1
+Fathima Sumaiya,10,Mathematics,Nimesh,Matrix,12,48,0
+Safiya Hani,10,Mathematics,Nimesh,Matrix,9,36,0
+Adhnaan Sherief,10,Mathematics,Nimesh,Matrix,7,28,0
+Bushra Zainab,10,Mathematics,Nimesh,Matrix,12,48,0
+Umara Azard,10,Mathematics,Nimesh,Matrix,10,40,0
+Rashadha Latheef,10,Mathematics,Nimesh,Matrix,15,60,1
+Mahdiya Hafeel,10,Mathematics,Nimesh,Matrix,5,20,0
+Nabil Nafeel,10,Mathematics,Nimesh,Matrix,8,32,0
+Mohammed Azhar,10,Mathematics,Nimesh,Matrix,9,36,0
+Maryam Ifaz,10,Mathematics,Nimesh,Matrix,9,36,0
+Ashtaq Naufal,10,Mathematics,Nimesh,Matrix,13,52,1
+Amnaah Aakif,10,Mathematics,Nimesh,Matrix,7,28,0
+Amra Mukthar,10,Mathematics,Nimesh,Matrix,9,36,0
+Ajmal Hameem,10,Mathematics,Nimesh,Matrix,24,96,1
+Zainab Siraj,10,Mathematics,Nimesh,Matrix,8,32,0
+Nikith Ferington,10,Mathematics,Nimesh,Matrix,15,60,1
+Nihar Yoonus,10,Mathematics,Nimesh,Matrix,8,32,0
+Maryam Mohamed,10,Mathematics,Nimesh,Matrix,9,36,0
+Rizkiya Zarook,10,Mathematics,Nimesh,Matrix,11,44,0
+Amna Arafath,10,Mathematics,Nimesh,Matrix,9,36,0
+Nadhir Naseer,10,Mathematics,Nimesh,Matrix,15,60,1
+Ishra Manual,10,Mathematics,Nimesh,Matrix,10,40,0
+Fathima Safa Naushad,10,Mathematics,Nimesh,Matrix,10,40,0
+Shahaama Fahim,10,Mathematics,Nimesh,Matrix,22,88,1
+Ilma Razzak,10,Mathematics,Nimesh,Matrix,7,28,0
+Sarah Sharby,10,Mathematics,Nimesh,Matrix,10,40,0
+Safiya Azhar,10,Mathematics,Nimesh,Matrix,15,60,1
+Salma Hadhil,10,Mathematics,Nimesh,Matrix,18,72,1
+Salha Sabry,10,Mathematics,Nimesh,Matrix,9,36,0
+Ramsha Razmi,10,Mathematics,Nimesh,Matrix,9,36,0
+Ayisha Manal,10,Mathematics,Nimesh,Matrix,12,48,0
+Adra Munazil,11,Mathematics,Vinoth,Algebra,17,68,1
+Hishma Azwer,11,Mathematics,Vinoth,Algebra,23,92,1
+Adeeb Fiyaz,11,Mathematics,Vinoth,Algebra,17,68,1
+Saarah Shafeek,11,Mathematics,Vinoth,Algebra,13,52,1
+Hafsa Adham,11,Mathematics,Vinoth,Algebra,13,52,1
+Suraiya Sabeer,11,Mathematics,Vinoth,Algebra,5,20,0
+Asma Ameer,11,Mathematics,Vinoth,Algebra,19,76,1
+Munzirah Rifai,11,Mathematics,Vinoth,Algebra,19,76,1
+Salma Jamalon,11,Mathematics,Vinoth,Algebra,5,20,0
+Ilma Hirfah,11,Mathematics,Vinoth,Algebra,22,88,1
+Jawad Ashkar,11,Mathematics,Vinoth,Algebra,12,48,0
+Raadhiya Risly,11,Mathematics,Vinoth,Algebra,13,52,1
+Hamsiya Marikkar,11,Mathematics,Vinoth,Algebra,11,44,0
+Maryam Samad ,11,Mathematics,Vinoth,Algebra,16,64,1
+Hamra Razvi,11,Mathematics,Vinoth,Algebra,11,44,0
+Katheeja Zareen,11,Mathematics,Vinoth,Algebra,14,56,1
+Shafa Nazeem,11,Mathematics,Vinoth,Algebra,25,100,1
+Ganishkaanth Elangovan,11,Mathematics,Vinoth,Algebra,4,16,0
+Amna Azmin,11,Mathematics,Vinoth,Algebra,15,60,1
+Tenushi Porage,11,Mathematics,Vinoth,Algebra,13,52,1
+Reshana Nethmini,11,Mathematics,Vinoth,Algebra,14,56,1
+Zaahid Rimzan,11,Mathematics,Thavarajah,Algebra,3,12,0
+Osandi Ranaweera,11,Mathematics,Thavarajah,Algebra,23,92,1
+Shazana Fiyaz,11,Mathematics,Thavarajah,Algebra,18,72,1
+Muhammed Aadil,11,Mathematics,Thavarajah,Algebra,2,8,0
+Fathima Hafsa,11,Mathematics,Thavarajah,Algebra,19,76,1
+Fathima Rahman,11,Mathematics,Thavarajah,Algebra,15,60,1
+Miflal Ahmed,11,Mathematics,Thavarajah,Algebra,5,20,0
+Ammesha Senenayake,11,Mathematics,Thavarajah,Algebra,8,32,0
+Oneli Ranaweera,11,Mathematics,Thavarajah,Algebra,23,92,1
+Zeenath Isham,11,Mathematics,Thavarajah,Algebra,0,0,0
+Isma Ifas,11,Mathematics,Thavarajah,Algebra,2,8,0
+Sabeeha Sujah,11,Mathematics,Thavarajah,Algebra,10,40,0
+Fathima Sahla,11,Mathematics,Thavarajah,Algebra,14,56,1
+Safa Rihab,11,Mathematics,Thavarajah,Algebra,17,68,1
+Sumaiyaa Waais,11,Mathematics,Thavarajah,Algebra,1,4,0
+Ayadh Manikkar Mufeeq,11,Mathematics,Thavarajah,Algebra,21,84,1
+Waseema Mohamed ,11,Mathematics,Thavarajah,Algebra,17,68,1
+Zeena Azeem,11,Mathematics,Thavarajah,Algebra,3,12,0
+Shahla Iyoob,11,Mathematics,Thavarajah,Algebra,4,16,0
+Ishfaq,11,Mathematics,Thavarajah,Algebra,2,8,0
+Nahdha Naleem,11,Mathematics,Thavarajah,Algebra,2,8,0
+Atheeka Nikla,11,Mathematics,Thavarajah,Algebra,2,8,0
+Hasma Mubeen,11,Mathematics,Thavarajah,Algebra,2,8,0
+Mihindi Amaratissa,11,Mathematics,Thavarajah,Algebra,21,84,1
+Lishalini ,11,Mathematics,Thavarajah,Algebra,2,8,0
+Enara Rathnayaka,11,Mathematics,Thavarajah,Algebra,8,32,0
+Rakshanya Ravishankar,11,Mathematics,Thavarajah,Algebra,1,4,0
+Adra Munazil,11,Mathematics,Vinoth,Graph,21,84,1
+Hishma Azwer,11,Mathematics,Vinoth,Graph,19,76,1
+Adeeb Fiyaz,11,Mathematics,Vinoth,Graph,13,52,1
+Saarah Shafeek,11,Mathematics,Vinoth,Graph,10,40,0
+Hafsa Adham,11,Mathematics,Vinoth,Graph,19,76,1
+Suraiya Sabeer,11,Mathematics,Vinoth,Graph,21,84,1
+Asma Ameer,11,Mathematics,Vinoth,Graph,7,28,0
+Munzirah Rifai,11,Mathematics,Vinoth,Graph,7,28,0
+Salma Jamalon,11,Mathematics,Vinoth,Graph,12,48,0
+Ilma Hirfah,11,Mathematics,Vinoth,Graph,11,44,0
+Jawad Ashkar,11,Mathematics,Vinoth,Graph,16,64,1
+Raadhiya Risly,11,Mathematics,Vinoth,Graph,15,60,1
+Hamsiya Marikkar,11,Mathematics,Vinoth,Graph,15,60,1
+Maryam Samad ,11,Mathematics,Vinoth,Graph,12,48,0
+Hamra Razvi,11,Mathematics,Vinoth,Graph,23,92,1
+Katheeja Zareen,11,Mathematics,Vinoth,Graph,7,28,0
+Shafa Nazeem,11,Mathematics,Vinoth,Graph,8,32,0
+Ganishkaanth Elangovan,11,Mathematics,Vinoth,Graph,14,56,1
+Amna Azmin,11,Mathematics,Vinoth,Graph,9,36,0
+Tenushi Porage,11,Mathematics,Vinoth,Graph,17,68,1
+Reshana Nethmini,11,Mathematics,Vinoth,Graph,7,28,0
+Zaahid Rimzan,11,Mathematics,Thavarajah,Graph,17,68,1
+Osandi Ranaweera,11,Mathematics,Thavarajah,Graph,7,28,0
+Shazana Fiyaz,11,Mathematics,Thavarajah,Graph,15,60,1
+Muhammed Aadil,11,Mathematics,Thavarajah,Graph,3,12,0
+Fathima Hafsa,11,Mathematics,Thavarajah,Graph,23,92,1
+Fathima Rahman,11,Mathematics,Thavarajah,Graph,4,16,0
+Miflal Ahmed,11,Mathematics,Thavarajah,Graph,4,16,0
+Ammesha Senenayake,11,Mathematics,Thavarajah,Graph,10,40,0
+Oneli Ranaweera,11,Mathematics,Thavarajah,Graph,15,60,1
+Zeenath Isham,11,Mathematics,Thavarajah,Graph,3,12,0
+Isma Ifas,11,Mathematics,Thavarajah,Graph,7,28,0
+Sabeeha Sujah,11,Mathematics,Thavarajah,Graph,7,28,0
+Fathima Sahla,11,Mathematics,Thavarajah,Graph,6,24,0
+Safa Rihab,11,Mathematics,Thavarajah,Graph,9,36,0
+Sumaiyaa Waais,11,Mathematics,Thavarajah,Graph,8,32,0
+Ayadh Manikkar Mufeeq,11,Mathematics,Thavarajah,Graph,11,44,0
+Waseema Mohamed ,11,Mathematics,Thavarajah,Graph,9,36,0
+Zeena Azeem,11,Mathematics,Thavarajah,Graph,21,84,1
+Shahla Iyoob,11,Mathematics,Thavarajah,Graph,8,32,0
+Ishfaq,11,Mathematics,Thavarajah,Graph,15,60,1
+Nahdha Naleem,11,Mathematics,Thavarajah,Graph,19,76,1
+Atheeka Nikla,11,Mathematics,Thavarajah,Graph,17,68,1
+Hasma Mubeen,11,Mathematics,Thavarajah,Graph,21,84,1
+Mihindi Amaratissa,11,Mathematics,Thavarajah,Graph,8,32,0
+Lishalini ,11,Mathematics,Thavarajah,Graph,5,20,0
+Enara Rathnayaka,11,Mathematics,Thavarajah,Graph,4,16,0
+Rakshanya Ravishankar,11,Mathematics,Thavarajah,Graph,5,20,0
+Adra Munazil,11,Mathematics,Vinoth,Percentage,23,92,1
+Hishma Azwer,11,Mathematics,Vinoth,Percentage,23,92,1
+Adeeb Fiyaz,11,Mathematics,Vinoth,Percentage,21,84,1
+Saarah Shafeek,11,Mathematics,Vinoth,Percentage,11,44,0
+Hafsa Adham,11,Mathematics,Vinoth,Percentage,16,64,1
+Suraiya Sabeer,11,Mathematics,Vinoth,Percentage,6,24,0
+Asma Ameer,11,Mathematics,Vinoth,Percentage,23,92,1
+Munzirah Rifai,11,Mathematics,Vinoth,Percentage,23,92,1
+Salma Jamalon,11,Mathematics,Vinoth,Percentage,9,36,0
+Ilma Hirfah,11,Mathematics,Vinoth,Percentage,4,16,0
+Jawad Ashkar,11,Mathematics,Vinoth,Percentage,13,52,1
+Raadhiya Risly,11,Mathematics,Vinoth,Percentage,11,44,0
+Hamsiya Marikkar,11,Mathematics,Vinoth,Percentage,15,60,1
+Maryam Samad ,11,Mathematics,Vinoth,Percentage,15,60,1
+Hamra Razvi,11,Mathematics,Vinoth,Percentage,9,36,0
+Katheeja Zareen,11,Mathematics,Vinoth,Percentage,12,48,0
+Shafa Nazeem,11,Mathematics,Vinoth,Percentage,13,52,1
+Ganishkaanth Elangovan,11,Mathematics,Vinoth,Percentage,9,36,0
+Amna Azmin,11,Mathematics,Vinoth,Percentage,25,100,1
+Tenushi Porage,11,Mathematics,Vinoth,Percentage,5,20,0
+Reshana Nethmini,11,Mathematics,Vinoth,Percentage,15,60,1
+Zaahid Rimzan,11,Mathematics,Thavarajah,Percentage,15,60,1
+Osandi Ranaweera,11,Mathematics,Thavarajah,Percentage,23,92,1
+Shazana Fiyaz,11,Mathematics,Thavarajah,Percentage,7,28,0
+Muhammed Aadil,11,Mathematics,Thavarajah,Percentage,23,92,1
+Fathima Hafsa,11,Mathematics,Thavarajah,Percentage,4,16,0
+Fathima Rahman,11,Mathematics,Thavarajah,Percentage,19,76,1
+Miflal Ahmed,11,Mathematics,Thavarajah,Percentage,5,20,0
+Ammesha Senenayake,11,Mathematics,Thavarajah,Percentage,15,60,1
+Oneli Ranaweera,11,Mathematics,Thavarajah,Percentage,23,92,1
+Zeenath Isham,11,Mathematics,Thavarajah,Percentage,5,20,0
+Isma Ifas,11,Mathematics,Thavarajah,Percentage,8,32,0
+Sabeeha Sujah,11,Mathematics,Thavarajah,Percentage,8,32,0
+Fathima Sahla,11,Mathematics,Thavarajah,Percentage,23,92,1
+Safa Rihab,11,Mathematics,Thavarajah,Percentage,5,20,0
+Sumaiyaa Waais,11,Mathematics,Thavarajah,Percentage,2,8,0
+Ayadh Manikkar Mufeeq,11,Mathematics,Thavarajah,Percentage,8,32,0
+Waseema Mohamed ,11,Mathematics,Thavarajah,Percentage,13,52,1
+Zeena Azeem,11,Mathematics,Thavarajah,Percentage,19,76,1
+Shahla Iyoob,11,Mathematics,Thavarajah,Percentage,4,16,0
+Ishfaq,11,Mathematics,Thavarajah,Percentage,3,12,0
+Nahdha Naleem,11,Mathematics,Thavarajah,Percentage,10,40,0
+Atheeka Nikla,11,Mathematics,Thavarajah,Percentage,25,100,1
+Hasma Mubeen,11,Mathematics,Thavarajah,Percentage,8,32,0
+Mihindi Amaratissa,11,Mathematics,Thavarajah,Percentage,22,88,1
+Lishalini ,11,Mathematics,Thavarajah,Percentage,16,64,1
+Enara Rathnayaka,11,Mathematics,Thavarajah,Percentage,6,24,0
+Rakshanya Ravishankar,11,Mathematics,Thavarajah,Percentage,3,12,0
+Adra Munazil,11,Mathematics,Vinoth,Probability,18,72,1
+Hishma Azwer,11,Mathematics,Vinoth,Probability,15,60,1
+Adeeb Fiyaz,11,Mathematics,Vinoth,Probability,21,84,1
+Saarah Shafeek,11,Mathematics,Vinoth,Probability,15,60,1
+Hafsa Adham,11,Mathematics,Vinoth,Probability,14,56,1
+Suraiya Sabeer,11,Mathematics,Vinoth,Probability,23,92,1
+Asma Ameer,11,Mathematics,Vinoth,Probability,23,92,1
+Munzirah Rifai,11,Mathematics,Vinoth,Probability,12,48,0
+Salma Jamalon,11,Mathematics,Vinoth,Probability,5,20,0
+Ilma Hirfah,11,Mathematics,Vinoth,Probability,11,44,0
+Jawad Ashkar,11,Mathematics,Vinoth,Probability,17,68,1
+Raadhiya Risly,11,Mathematics,Vinoth,Probability,12,48,0
+Hamsiya Marikkar,11,Mathematics,Vinoth,Probability,16,64,1
+Maryam Samad ,11,Mathematics,Vinoth,Probability,8,32,0
+Hamra Razvi,11,Mathematics,Vinoth,Probability,24,96,1
+Katheeja Zareen,11,Mathematics,Vinoth,Probability,7,28,0
+Shafa Nazeem,11,Mathematics,Vinoth,Probability,15,60,1
+Ganishkaanth Elangovan,11,Mathematics,Vinoth,Probability,23,92,1
+Amna Azmin,11,Mathematics,Vinoth,Probability,20,80,1
+Tenushi Porage,11,Mathematics,Vinoth,Probability,19,76,1
+Reshana Nethmini,11,Mathematics,Vinoth,Probability,15,60,1
+Zaahid Rimzan,11,Mathematics,Thavarajah,Probability,25,100,1
+Osandi Ranaweera,11,Mathematics,Thavarajah,Probability,2,8,0
+Shazana Fiyaz,11,Mathematics,Thavarajah,Probability,21,84,1
+Muhammed Aadil,11,Mathematics,Thavarajah,Probability,3,12,0
+Fathima Hafsa,11,Mathematics,Thavarajah,Probability,10,40,0
+Fathima Rahman,11,Mathematics,Thavarajah,Probability,18,72,1
+Miflal Ahmed,11,Mathematics,Thavarajah,Probability,1,4,0
+Ammesha Senenayake,11,Mathematics,Thavarajah,Probability,19,76,1
+Oneli Ranaweera,11,Mathematics,Thavarajah,Probability,7,28,0
+Zeenath Isham,11,Mathematics,Thavarajah,Probability,22,88,1
+Isma Ifas,11,Mathematics,Thavarajah,Probability,3,12,0
+Sabeeha Sujah,11,Mathematics,Thavarajah,Probability,7,28,0
+Fathima Sahla,11,Mathematics,Thavarajah,Probability,23,92,1
+Safa Rihab,11,Mathematics,Thavarajah,Probability,15,60,1
+Sumaiyaa Waais,11,Mathematics,Thavarajah,Probability,21,84,1
+Ayadh Manikkar Mufeeq,11,Mathematics,Thavarajah,Probability,10,40,0
+Waseema Mohamed ,11,Mathematics,Thavarajah,Probability,12,48,0
+Zeena Azeem,11,Mathematics,Thavarajah,Probability,6,24,0
+Shahla Iyoob,11,Mathematics,Thavarajah,Probability,5,20,0
+Ishfaq,11,Mathematics,Thavarajah,Probability,7,28,0
+Nahdha Naleem,11,Mathematics,Thavarajah,Probability,12,48,0
+Atheeka Nikla,11,Mathematics,Thavarajah,Probability,15,60,1
+Hasma Mubeen,11,Mathematics,Thavarajah,Probability,10,40,0
+Mihindi Amaratissa,11,Mathematics,Thavarajah,Probability,20,80,1
+Lishalini ,11,Mathematics,Thavarajah,Probability,9,36,0
+Enara Rathnayaka,11,Mathematics,Thavarajah,Probability,8,32,0
+Rakshanya Ravishankar,11,Mathematics,Thavarajah,Probability,3,12,0
+Prageeth Savinda,11,ICT,Sarath,Numbering System,12,48,0
+Rasika Priyadarshani,11,ICT,Sarath,Numbering System,8,32,0
+Chathuri Buddhika,11,ICT,Sarath,Numbering System,4,16,0
+Dinithi Silva,11,ICT,Sarath,Numbering System,11,44,0
+Dilshi Ranasinghe,11,ICT,Sarath,Numbering System,8,32,0
+Manuli Perera,11,ICT,Sarath,Numbering System,21,84,1
+Shanil Arjuna,11,ICT,Sarath,Numbering System,13,52,1
+Sashika De Silva,11,ICT,Sarath,Numbering System,14,56,1
+Pulakshi Kalubowila,11,ICT,Sarath,Numbering System,18,72,1
+Piumi Silva,11,ICT,Sarath,Numbering System,19,76,1
+Mereesha Navodini,11,ICT,Sarath,Numbering System,10,40,0
+Udeshi Perera,11,ICT,Sarath,Numbering System,6,24,0
+Kiara Perera,11,ICT,Sarath,Numbering System,8,32,0
+Nanduni Silva,11,ICT,Sarath,Numbering System,4,16,0
+Shashini Rodrigo,11,ICT,Sumedha,Numbering System,11,44,0
+Dineshiene Silva,11,ICT,Sumedha,Numbering System,2,8,0
+Samanthika Dabare,11,ICT,Sumedha,Numbering System,5,20,0
+Imalshi Fernando,11,ICT,Sumedha,Numbering System,13,52,1
+Sammani Perera,11,ICT,Sumedha,Numbering System,6,24,0
+Sathma Liyanage,11,ICT,Sumedha,Numbering System,13,52,1
+Gimhana Jayakody,11,ICT,Sumedha,Numbering System,10,40,0
+Gayan Sanjeewa,11,ICT,Sumedha,Numbering System,1,4,0
+Lahiru Nimesh,11,ICT,Sumedha,Numbering System,8,32,0
+Chrishan Sumedha,11,ICT,Sumedha,Numbering System,9,36,0
+Dinesha Chrishani,11,ICT,Sumedha,Numbering System,12,48,0
+Niruni Thissera,11,ICT,Sumedha,Numbering System,11,44,0
+Tharushika Madushani,11,ICT,Sumedha,Numbering System,1,4,0
+Rashmika Silva,11,ICT,Sumedha,Numbering System,6,24,0
+Moksha Silva,11,ICT,Sumedha,Numbering System,18,72,1
+Ishyny Yatigammana,11,ICT,Sumedha,Numbering System,12,48,0
+Amaya Salgado,11,ICT,Sumedha,Numbering System,8,32,0
+Prageeth Savinda,11,ICT,Sarath,Networks,2,8,0
+Rasika Priyadarshani,11,ICT,Sarath,Networks,2,8,0
+Chathuri Buddhika,11,ICT,Sarath,Networks,14,56,1
+Dinithi Silva,11,ICT,Sarath,Networks,7,28,0
+Dilshi Ranasinghe,11,ICT,Sarath,Networks,10,40,0
+Manuli Perera,11,ICT,Sarath,Networks,11,44,0
+Shanil Arjuna,11,ICT,Sarath,Networks,12,48,0
+Sashika De Silva,11,ICT,Sarath,Networks,9,36,0
+Pulakshi Kalubowila,11,ICT,Sarath,Networks,10,40,0
+Piumi Silva,11,ICT,Sarath,Networks,13,52,1
+Mereesha Navodini,11,ICT,Sarath,Networks,5,20,0
+Udeshi Perera,11,ICT,Sarath,Networks,14,56,1
+Kiara Perera,11,ICT,Sarath,Networks,2,8,0
+Nanduni Silva,11,ICT,Sarath,Networks,11,44,0
+Shashini Rodrigo,11,ICT,Sumedha,Networks,8,32,0
+Dineshiene Silva,11,ICT,Sumedha,Networks,12,48,0
+Samanthika Dabare,11,ICT,Sumedha,Networks,23,92,1
+Imalshi Fernando,11,ICT,Sumedha,Networks,12,48,0
+Sammani Perera,11,ICT,Sumedha,Networks,8,32,0
+Sathma Liyanage,11,ICT,Sumedha,Networks,11,44,0
+Gimhana Jayakody,11,ICT,Sumedha,Networks,14,56,1
+Gayan Sanjeewa,11,ICT,Sumedha,Networks,14,56,1
+Lahiru Nimesh,11,ICT,Sumedha,Networks,6,24,0
+Chrishan Sumedha,11,ICT,Sumedha,Networks,12,48,0
+Dinesha Chrishani,11,ICT,Sumedha,Networks,10,40,0
+Niruni Thissera,11,ICT,Sumedha,Networks,3,12,0
+Tharushika Madushani,11,ICT,Sumedha,Networks,12,48,0
+Rashmika Silva,11,ICT,Sumedha,Networks,12,48,0
+Moksha Silva,11,ICT,Sumedha,Networks,19,76,1
+Ishyny Yatigammana,11,ICT,Sumedha,Networks,6,24,0
+Amaya Salgado,11,ICT,Sumedha,Networks,10,40,0
+Prageeth Savinda,11,ICT,Sarath,Computer basics,2,8,0
+Rasika Priyadarshani,11,ICT,Sarath,Computer basics,2,8,0
+Chathuri Buddhika,11,ICT,Sarath,Computer basics,14,56,1
+Dinithi Silva,11,ICT,Sarath,Computer basics,7,28,0
+Dilshi Ranasinghe,11,ICT,Sarath,Computer basics,10,40,0
+Manuli Perera,11,ICT,Sarath,Computer basics,11,44,0
+Shanil Arjuna,11,ICT,Sarath,Computer basics,12,48,0
+Sashika De Silva,11,ICT,Sarath,Computer basics,9,36,0
+Pulakshi Kalubowila,11,ICT,Sarath,Computer basics,10,40,0
+Piumi Silva,11,ICT,Sarath,Computer basics,13,52,1
+Mereesha Navodini,11,ICT,Sarath,Computer basics,5,20,0
+Udeshi Perera,11,ICT,Sarath,Computer basics,14,56,1
+Kiara Perera,11,ICT,Sarath,Computer basics,2,8,0
+Nanduni Silva,11,ICT,Sarath,Computer basics,11,44,0
+Shashini Rodrigo,11,ICT,Sumedha,Computer basics,8,32,0
+Dineshiene Silva,11,ICT,Sumedha,Computer basics,12,48,0
+Samanthika Dabare,11,ICT,Sumedha,Computer basics,23,92,1
+Imalshi Fernando,11,ICT,Sumedha,Computer basics,12,48,0
+Sammani Perera,11,ICT,Sumedha,Computer basics,8,32,0
+Sathma Liyanage,11,ICT,Sumedha,Computer basics,11,44,0
+Gimhana Jayakody,11,ICT,Sumedha,Computer basics,14,56,1
+Gayan Sanjeewa,11,ICT,Sumedha,Computer basics,14,56,1
+Lahiru Nimesh,11,ICT,Sumedha,Computer basics,6,24,0
+Chrishan Sumedha,11,ICT,Sumedha,Computer basics,12,48,0
+Dinesha Chrishani,11,ICT,Sumedha,Computer basics,10,40,0
+Niruni Thissera,11,ICT,Sumedha,Computer basics,3,12,0
+Tharushika Madushani,11,ICT,Sumedha,Computer basics,12,48,0
+Rashmika Silva,11,ICT,Sumedha,Computer basics,12,48,0
+Moksha Silva,11,ICT,Sumedha,Computer basics,19,76,1
+Ishyny Yatigammana,11,ICT,Sumedha,Computer basics,6,24,0
+Amaya Salgado,11,ICT,Sumedha,Computer basics,10,40,0
+Prageeth Savinda,11,ICT,Sarath,Spread sheet and word process,19,76,1
+Rasika Priyadarshani,11,ICT,Sarath,Spread sheet and word process,17,68,1
+Chathuri Buddhika,11,ICT,Sarath,Spread sheet and word process,19,76,1
+Dinithi Silva,11,ICT,Sarath,Spread sheet and word process,15,60,1
+Dilshi Ranasinghe,11,ICT,Sarath,Spread sheet and word process,23,92,1
+Manuli Perera,11,ICT,Sarath,Spread sheet and word process,21,84,1
+Shanil Arjuna,11,ICT,Sarath,Spread sheet and word process,13,52,1
+Sashika De Silva,11,ICT,Sarath,Spread sheet and word process,15,60,1
+Pulakshi Kalubowila,11,ICT,Sarath,Spread sheet and word process,19,76,1
+Piumi Silva,11,ICT,Sarath,Spread sheet and word process,13,52,1
+Mereesha Navodini,11,ICT,Sarath,Spread sheet and word process,10,40,0
+Udeshi Perera,11,ICT,Sarath,Spread sheet and word process,19,76,1
+Kiara Perera,11,ICT,Sarath,Spread sheet and word process,17,68,1
+Nanduni Silva,11,ICT,Sarath,Spread sheet and word process,14,56,1
+Shashini Rodrigo,11,ICT,Sumedha,Spread sheet and word process,13,52,1
+Dineshiene Silva,11,ICT,Sumedha,Spread sheet and word process,17,68,1
+Samanthika Dabare,11,ICT,Sumedha,Spread sheet and word process,2,8,0
+Imalshi Fernando,11,ICT,Sumedha,Spread sheet and word process,10,40,0
+Sammani Perera,11,ICT,Sumedha,Spread sheet and word process,23,92,1
+Sathma Liyanage,11,ICT,Sumedha,Spread sheet and word process,16,64,1
+Gimhana Jayakody,11,ICT,Sumedha,Spread sheet and word process,15,60,1
+Gayan Sanjeewa,11,ICT,Sumedha,Spread sheet and word process,13,52,1
+Lahiru Nimesh,11,ICT,Sumedha,Spread sheet and word process,0,0,0
+Chrishan Sumedha,11,ICT,Sumedha,Spread sheet and word process,4,16,0
+Dinesha Chrishani,11,ICT,Sumedha,Spread sheet and word process,19,76,1
+Niruni Thissera,11,ICT,Sumedha,Spread sheet and word process,9,36,0
+Tharushika Madushani,11,ICT,Sumedha,Spread sheet and word process,11,44,0
+Rashmika Silva,11,ICT,Sumedha,Spread sheet and word process,11,44,0
+Moksha Silva,11,ICT,Sumedha,Spread sheet and word process,19,76,1
+Ishyny Yatigammana,11,ICT,Sumedha,Spread sheet and word process,17,68,1
+Amaya Salgado,11,ICT,Sumedha,Spread sheet and word process,17,68,1
